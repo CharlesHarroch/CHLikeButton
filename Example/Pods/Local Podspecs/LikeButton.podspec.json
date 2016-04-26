@@ -1,0 +1,29 @@
+{
+  "name": "LikeButton",
+  "version": "0.1.0",
+  "summary": "A short description of LikeButton.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LikeButton",
+  "license": "MIT",
+  "authors": {
+    "Charles Harroch": "charles.harroch@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LikeButton.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LikeButton/Classes/**/*",
+  "resource_bundles": {
+    "LikeButton": [
+      "LikeButton/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "pop": [
+
+    ]
+  }
+}

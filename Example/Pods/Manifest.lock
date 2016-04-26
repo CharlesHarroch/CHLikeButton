@@ -1,0 +1,17 @@
+PODS:
+  - LikeButton (0.1.0):
+    - pop
+  - pop (1.0.9)
+
+DEPENDENCIES:
+  - LikeButton (from `../`)
+
+EXTERNAL SOURCES:
+  LikeButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LikeButton: e45c007d3243f818e35b3a9c80b5b29100b6c7d8
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+
+COCOAPODS: 0.39.0
