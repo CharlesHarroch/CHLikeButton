@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LikeButton_Example', :exclusive => true do
+  pod 'LikeButton', :path => '../'
+end
+
+target 'LikeButton_Tests', :exclusive => true do
+  pod 'LikeButton', :path => '../'
+
+  
+end
