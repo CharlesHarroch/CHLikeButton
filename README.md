@@ -7,7 +7,7 @@
 ## What is LikeButton ?
 
 <p align="center">
-<img src="http://i.imgur.com/T4X7JFg.gifv" width="240" height="172" />
+<img src="http://i.imgur.com/T4X7JFg.gif" width="240" height="172" />
 </p>
 
 ## Usage
