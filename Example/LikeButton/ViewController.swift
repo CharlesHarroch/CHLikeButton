@@ -7,9 +7,12 @@
 //
 
 import UIKit
+import LikeButton
 
 class ViewController: UIViewController {
 
+    @IBOutlet var likeButton :  LikeButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
